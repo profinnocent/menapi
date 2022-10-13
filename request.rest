@@ -1,0 +1,8 @@
+# Home page for get all resource
+
+http://localhost:3000/menapi/api/todos
+
+
+
+###
+http://localhost:3000/api/todos

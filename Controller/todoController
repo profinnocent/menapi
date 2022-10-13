@@ -1,0 +1,8 @@
+const mongoose = require("mongoose");
+const Todo = require("../models/todoModel");
+
+const getTodos = async (req, res) => {
+  await console.log(Todo);
+};
+
+module.exports = { getTodos };
